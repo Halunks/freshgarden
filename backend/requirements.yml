@@ -1,0 +1,16 @@
+name: backend
+dependencies:
+  - Python==3.8.5
+  - pip
+  - psycopg2
+  - pip:
+    - Django==3.1.2
+    - djangorestframework==3.12.1
+    - djangorestframework-simplejwt==4.4.0
+    - django-any-imagefield==1.1
+    - Pillow==7.2.0
+    - flake8==3.8.4
+    - gunicorn==20.0.4
+    - django-cors-headers==3.5.0
+    - django-shopping-cart==0.1
+#    - cryptography==2.3
