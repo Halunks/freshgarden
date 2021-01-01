@@ -9,7 +9,7 @@ this repository is the foundation for a minimal viable product (MVP).
 
 ![Sign In](./frontend/src/assets/signin.PNG "Sign In Page")
 
-![FAQ](./frontend/src/assets/faq.png "FAQ")
+![FAQ](./frontend/src/assets/freshgarden_about.png "FAQ")
 
 # Setup Guide 
 <strong>Prerequisites and Frontend</strong>
