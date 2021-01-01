@@ -1,10 +1,15 @@
-# Screenshots
-add gifs and screenshots
+![Homepage](./frontend/src/assets/freshgarden_homepage.png "Home Page")
 
 # Purpose
-freshgarden is the result of a three week sprint with 3 junior web developers.
+Freshgarden is the result of a three week sprint with 3 junior web developers.
 freshgarden resolves around the idea of trading food from consumer to consumer.
-this repository includes the foundation for a minimal viable product (MVP).
+this repository is the foundation for a minimal viable product (MVP).
+
+# Impressions
+
+![Sign In](./frontend/src/assets/signin.PNG "Sign In Page")
+
+![FAQ](./frontend/src/assets/faq.png "FAQ")
 
 # Setup Guide 
 <strong>Prerequisites and Frontend</strong>
@@ -34,7 +39,7 @@ this repository includes the foundation for a minimal viable product (MVP).
 11. Start the frontend React app <code>$ cd frontend/ $ npm start</code> and access it on "https://localhost:3000/"
 
 # Architecture
-add
+![Architecture](./frontend/src/assets/architecture.png "Architecture")
 
 # Endpoints
 <strong>Registration</strong>
