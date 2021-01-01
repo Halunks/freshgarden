@@ -82,7 +82,7 @@ this repository is the foundation for a minimal viable product (MVP).
 
 <code>api/products?search=<str:search_string>/</code> GET: Search for a product.
 
-// <code>api/products/promotion/</code> GET: Get the list of all promoted products. // Not working yet
+<code>api/products/promotion/</code> GET: Get the list of all promoted products. // Not working yet
 
 <strong>Users</strong> 
 
