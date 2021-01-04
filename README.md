@@ -1,6 +1,6 @@
 # Purpose
-Freshgarden is the result of a three week sprint with 3 junior web developers.
-Freshgarden resolves around the idea of trading food from consumer to consumer. A key feature is to let people connect to like-minded people via a social board and a chat.
+Freshgarden is the result of a three week sprint with three junior web developers.
+Freshgarden resolves around the idea of trading homegrown food from consumer to consumer. A key feature is to let people connect to like-minded people via a social board and a chat.
 This repository is the foundation for a minimal viable product (MVP).
 
 # Impressions
