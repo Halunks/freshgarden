@@ -1,11 +1,10 @@
-![Homepage](./frontend/src/assets/freshgarden_homepage.png "Home Page")
-
 # Purpose
 Freshgarden is the result of a three week sprint with 3 junior web developers.
-freshgarden resolves around the idea of trading food from consumer to consumer.
+Freshgarden resolves around the idea of trading food from consumer to consumer. A key feature is to let people connect to like-minded people via a social board an a chat.
 this repository is the foundation for a minimal viable product (MVP).
 
 # Impressions
+![Homepage](./frontend/src/assets/freshgarden_homepage.png "Home Page")
 
 ![Sign In](./frontend/src/assets/signin.PNG "Sign In Page")
 
